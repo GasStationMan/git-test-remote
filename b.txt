@@ -1,0 +1,1 @@
+파일 이름 수정은 rename, F2.  파일 삭제는 delete로
